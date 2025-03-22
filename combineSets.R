@@ -1,4 +1,4 @@
-train<-read.csv("train.csv")
+train<-read.csv("Bank Marketing Campaign.csv")
 test<-read.csv("test.csv")
 
 #To combine datasets and preserve information from which datasets 
